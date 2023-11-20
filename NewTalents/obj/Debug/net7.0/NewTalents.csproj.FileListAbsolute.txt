@@ -1,0 +1,14 @@
+D:\WorkSpace\TDD-Xunit\NewTalents\bin\Debug\net7.0\NewTalents.exe
+D:\WorkSpace\TDD-Xunit\NewTalents\bin\Debug\net7.0\NewTalents.deps.json
+D:\WorkSpace\TDD-Xunit\NewTalents\bin\Debug\net7.0\NewTalents.runtimeconfig.json
+D:\WorkSpace\TDD-Xunit\NewTalents\bin\Debug\net7.0\NewTalents.dll
+D:\WorkSpace\TDD-Xunit\NewTalents\bin\Debug\net7.0\NewTalents.pdb
+D:\WorkSpace\TDD-Xunit\NewTalents\obj\Debug\net7.0\NewTalents.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\TDD-Xunit\NewTalents\obj\Debug\net7.0\NewTalents.AssemblyInfoInputs.cache
+D:\WorkSpace\TDD-Xunit\NewTalents\obj\Debug\net7.0\NewTalents.AssemblyInfo.cs
+D:\WorkSpace\TDD-Xunit\NewTalents\obj\Debug\net7.0\NewTalents.csproj.CoreCompileInputs.cache
+D:\WorkSpace\TDD-Xunit\NewTalents\obj\Debug\net7.0\NewTalents.dll
+D:\WorkSpace\TDD-Xunit\NewTalents\obj\Debug\net7.0\refint\NewTalents.dll
+D:\WorkSpace\TDD-Xunit\NewTalents\obj\Debug\net7.0\NewTalents.pdb
+D:\WorkSpace\TDD-Xunit\NewTalents\obj\Debug\net7.0\NewTalents.genruntimeconfig.cache
+D:\WorkSpace\TDD-Xunit\NewTalents\obj\Debug\net7.0\ref\NewTalents.dll
